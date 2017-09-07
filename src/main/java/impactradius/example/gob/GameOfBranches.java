@@ -10,10 +10,10 @@ public class GameOfBranches {
     public static void main(String[] args) {
         GameOfBranches gob = new GameOfBranches();
 
-        gob.sayIt();
+        gob.quote();
     }
 
-    private String sayIt() {
+    private String quote() {
 
         LOGGER.info(JOHNSNOW_KNOWLEDGE_LEVEL);
 
