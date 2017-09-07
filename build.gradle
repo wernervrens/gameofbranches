@@ -14,10 +14,10 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
 
-irCsaVersion = 'season1-+'
-irFinVersion = 'season1-+'
-irPdsVersion = 'season1-+'
-irTrkVersion = 'season1-+'
+irCsaVersion = 'master-+'
+irFinVersion = 'master-+'
+irPdsVersion = 'master-+'
+irTrkVersion = 'master-+'
 
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
