@@ -15,7 +15,7 @@ public class GameOfBranches {
 
     private String quote() {
 
-        LOGGER.info(JOHNSNOW_KNOWLEDGE_LEVEL);
+        LOGGER.warning(JOHNSNOW_KNOWLEDGE_LEVEL);
 
         return JOHNSNOW_KNOWLEDGE_LEVEL;
     }
